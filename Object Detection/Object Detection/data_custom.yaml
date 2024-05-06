@@ -1,0 +1,5 @@
+train: /home/jovyan/Object Detection/Object Detection/datasets/images/train
+val: /home/jovyan/Object Detection/Object Detection/datasets/images/val
+
+nc: 2
+names: ['Square', 'Triangle']
